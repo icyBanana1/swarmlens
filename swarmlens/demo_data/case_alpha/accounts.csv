@@ -1,0 +1,9 @@
+account_id,username,created_at,followers_count,following_count,posts_count,bio,profile_image_default,verified,platform
+a001,signalalpha,2026-01-04T08:00:00+00:00,41,690,530,News. Truth. Voice.,true,false,x
+a002,signalbeta,2026-01-08T09:00:00+00:00,36,702,515,News. Truth. Voice.,true,false,x
+a003,signalgamma,2026-01-12T10:00:00+00:00,39,710,498,News. Truth. Voice.,true,false,x
+a004,civicpulse24,2024-04-11T12:00:00+00:00,3200,420,980,Public affairs and civic analysis.,false,false,x
+a005,briefingwire,2023-03-20T08:00:00+00:00,4200,390,1130,Open-source monitoring and commentary.,false,false,x
+a006,localwatcher,2025-12-20T07:00:00+00:00,65,880,600,News. Truth. Voice.,true,false,x
+a007,dailyfocusnow,2025-12-22T07:30:00+00:00,71,865,580,News. Truth. Voice.,true,false,x
+a008,urbanbriefs,2022-05-13T06:00:00+00:00,1800,240,420,City updates and breaking threads.,false,false,x

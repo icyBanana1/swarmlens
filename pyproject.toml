@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "swarmlens"
+version = "3.0.0"
+description = "Toolkit for detecting coordinated inauthentic behavior in public social media datasets"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "icyBanana"}]
+dependencies = []
+
+[project.scripts]
+swarmlens = "swarmlens.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["swarmlens*"]
